@@ -1,0 +1,2 @@
+ninja: Entering directory `F:\AndroidProjects\0706-fom\fom_demo\app\.cxx\cmake\release\arm64-v8a'
+ninja: no work to do.

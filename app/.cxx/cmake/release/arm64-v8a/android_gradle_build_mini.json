@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "F:\\AndroidProjects\\0706-fom\\fom_demo\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "F:\\AndroidProjects\\0706-fom\\fom_demo\\app\\.cxx\\cmake\\release\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "F:\\AndroidProjects\\0706-fom\\fom_demo\\app\\.cxx\\cmake\\release\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Native-Release-arm64-v8a": {
+      "artifactName": "Native",
+      "buildCommandComponents": [
+        "E:\\AndroidSDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "F:\\AndroidProjects\\0706-fom\\fom_demo\\app\\.cxx\\cmake\\release\\arm64-v8a",
+        "Native"
+      ],
+      "abi": "arm64-v8a",
+      "output": "F:\\AndroidProjects\\0706-fom\\fom_demo\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libNative.so",
+      "runtimeFiles": [
+        "F:\\AndroidProjects\\0706-fom\\fom_demo\\app\\PaddleLite\\cxx\\libs\\arm64-v8a\\libpaddle_light_api_shared.so"
+      ]
+    }
+  }
+}

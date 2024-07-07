@@ -1,0 +1,3 @@
+F:/AndroidProjects/0706-fom/fom_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/Native.dir
+F:/AndroidProjects/0706-fom/fom_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/AndroidProjects/0706-fom/fom_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
